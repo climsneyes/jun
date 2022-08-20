@@ -11,20 +11,19 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "공부 방향"
       section: services
-    - title: "Portfolio"
+    - title: "아들 사진첩"
       section: portfolio
-    - title: "About"
+    - title: "데이터 분석"
+      section: dataanal
+    - title: "나는 누구"
       section: about
-    - title: "Timeline"
+    - title: "사무자동화"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

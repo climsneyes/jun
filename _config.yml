@@ -16,10 +16,11 @@ theme: jekyll-agency
 url    : "https://climsneyes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/jun" # the subpath of your site, e.g. /blog
 
-title      : saqu
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : 준후아빠
+email      : climsneyes85@gmail.com #this is also the email contact forms will go to
+description: "4차산업혁명에 필요한 인재가 되고 싶어요"
+author     : 이상현
+
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
